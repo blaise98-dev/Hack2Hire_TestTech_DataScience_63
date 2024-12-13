@@ -8,7 +8,6 @@ This repository contains the code and resources for the `databeez_test_hack2hire
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Installation
 Follow these steps to install the project:
