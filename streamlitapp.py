@@ -29,10 +29,10 @@ with open(model_path, 'rb') as file:
     model = pickle.load(file)
 
 # Streamlit app
-st.title('Credit Risk Prediction')
+st.title('Germany Credit Risk Prediction system')
 
 # User input
-st.header('Enter the details:')
+st.header('Enter the details to use application:')
 age = st.number_input('Age', min_value=18, max_value=100, value=30)
 job = st.number_input('Job', min_value=0, max_value=4, value=1)
 credit_amount = st.number_input('Credit Amount', min_value=0, value=1000)
