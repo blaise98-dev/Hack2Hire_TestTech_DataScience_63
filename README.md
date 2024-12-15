@@ -5,10 +5,10 @@
 - The dataset used is the German Credit Risk Dataset, a standard benchmark in credit risk modeling. It consists of 1,000 instances and 10 variables(9 features and 1 label).
 -  This project leverages machine learning algorithms to analyze features such as  duration, credit amount,housing,checking account,saving account, sex, job, age, and purpose of credit.The system predicts whether a loan applicant is at "good risk" or "bad risk".
   
-- Exploratory Data analysis report before preprocessing: [Link Text](./credit_risk_germany_data_profiling_report.html)
-- Exploratory Data analysis report after preprocessing: [Link Text](./preprocessed_credit_risk_germany_data_profiling_report.html)
+- Exploratory Data analysis report before preprocessing: [credit_risk_germany_data_profiling_report](./credit_risk_germany_data_profiling_report.html)
+- Exploratory Data analysis report after preprocessing: [preprocessed_credit_risk_germany_data_profiling_report](./preprocessed_credit_risk_germany_data_profiling_report.html)
 - The training was made on many classification algorithms and the best model is XGBOOST model with accuracy of 78%.
-- Deployed application can be accessed on [Link Text](https://hack2hiretesttechdatascience63.streamlit.app/)
+- Deployed application can be accessed on [hack2hiretesttechdatascience63](https://hack2hiretesttechdatascience63.streamlit.app/)
 
 
 ## Table of Contents
