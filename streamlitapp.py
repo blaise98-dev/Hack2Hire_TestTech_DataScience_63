@@ -24,7 +24,7 @@ class XGBClassifierWrapper(BaseEstimator, ClassifierMixin):
         return self.model.score(X, y)
 
 # Load the pretrained model
-model_path = 'https://github.com/blaise98-dev/Hack2Hire_TestTech_DataScience_63/blob/master/best_model.pkl'  # Path to the saved model
+model_path = 'best_model.pkl'  # Path to the saved model
 with open(model_path, 'rb') as file:
     model = pickle.load(file)
 
