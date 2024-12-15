@@ -44,7 +44,7 @@ httpcore==1.0.7
 httpx==0.28.1
 idna==3.10
 ImageHash==4.3.1
-imbalanced-learn==0.12.4
+imbalanced-learn
 importlib_metadata==8.5.0
 ipykernel==6.29.5
 ipython==8.30.0
@@ -53,7 +53,7 @@ isoduration==20.11.0
 itsdangerous==2.2.0
 jedi==0.19.2
 Jinja2==3.1.4
-joblib==1.4.2
+joblib
 json5==0.10.0
 jsonpointer==3.0.0
 jsonschema==4.23.0
