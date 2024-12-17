@@ -7,7 +7,7 @@
   
 - Exploratory Data analysis report before preprocessing: [credit_risk_germany_data_profiling_report](./credit_risk_germany_data_profiling_report.html)
 - Exploratory Data analysis report after preprocessing: [preprocessed_credit_risk_germany_data_profiling_report](./preprocessed_credit_risk_germany_data_profiling_report.html)
-- The training was made on many classification algorithms and the best model is XGBOOST model with accuracy of 78%.
+- The training was made on many classification algorithms and the best model is XGBOOST model with accuracy of 0.8~ 80%.
 - Deployed application can be accessed on [hack2hiretesttechdatascience63](https://hack2hiretesttechdatascience63.streamlit.app/)
 
 
